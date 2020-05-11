@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: toures-balon-carro
+  redis:
+    host: 192.168.0.6
+  profiles:
+    active: dev
+
+server:
+  port: 0
